@@ -13,12 +13,13 @@ const produtos = [
     preco: 22.5,
     imagem: "assets/images/burger.png",
     categoria: "hamburgueres"
-
-   nome: "Cheese Clone",
+  },
+  {
+    nome: "Cheese Clone",
     descricao: "Hambúrguer com queijo extra.",
     preco: 22.5,
     imagem: "assets/images/burger.png",
-    categoria: "hamburgueres",
+    categoria: "hamburgueres" 
   },
 
   // Acompanhamentos
