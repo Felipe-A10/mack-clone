@@ -18,7 +18,7 @@ const produtos = [
     descricao: "Hambúrguer com queijo extra.",
     preco: 22.5,
     imagem: "assets/images/burger.png",
-    categoria: "hamburgueres"
+    categoria: "hamburgueres",
   },
 
   // Acompanhamentos
